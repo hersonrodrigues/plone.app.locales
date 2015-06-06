@@ -7,8 +7,7 @@
 # Fabiano Weimar dos Santos (Xiru) <xiru@xiru.org>, 2002-2005.
 # Jean Rodrigo Ferri <jeanrodrigoferri@yahoo.com.br>, 2005-2006.
 # Rafahela Garcia Bazzanella <rafabazzanella@yahoo.com.br>, 2005.
-# Sidnei da Silva <sidnei@plone.org>, 2002-2003.
-# Carlos Vieira <edu.carlos.vieira@gmail.com>, 2015.
+# Sidnei da Silva <sidnei@plone.org>, 2002-2003. Carlos Vieira <edu.carlos.vieira@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: Plone\n"
@@ -6443,7 +6442,7 @@ msgstr "Área de configuração do Plone e Complementos"
 #. Default: "A portlet which can display static HTML text."
 #: plone.portlet.static/plone/portlet/static/static.py:168
 msgid "description_static_portlet"
-msgstr "Um portlet que pode exiir conteúdo HTML estático."
+msgstr "Um portlet que pode exibir conteúdo HTML estático."
 
 #. Default: "If you are still reaching this page after correctly configuring your browser, here are some possible reasons:"
 #: CMFPlone/skins/plone_login/login_failed.cpt:29
