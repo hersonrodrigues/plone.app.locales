@@ -2310,7 +2310,7 @@ msgstr "Se for um pacote pode-se ter uma condição para renderizar"
 
 #: CMFPlone/interfaces/resources.py:89
 msgid "In case you want to be the last: *, in case its the first should be empty"
-msgstr "Caso que você queira ser o último: *, no caso de ser o primeiro deve estar vazio"
+msgstr "Caso você queira que seja o último: *, no caso de ser o primeiro deve estar vazio"
 
 #: CMFPlone/interfaces/resources.py:67
 msgid "In case you want to render this resource on conditional comment"
@@ -2514,7 +2514,7 @@ msgstr "Última configuração disponível"
 #. Default: "Lead Image"
 #: plone.app.contenttypes/plone/app/contenttypes/behaviors/configure.zcml:11
 msgid "Lead Image"
-msgstr ""
+msgstr "Imagem principal"
 
 #: CMFPlone/browser/templates/hero.pt:13
 msgid "Learn more about Plone"
@@ -4544,7 +4544,7 @@ msgstr "Colunas da Tabela"
 #. Default: "RichText"
 #: plone.app.contenttypes/plone/app/contenttypes/behaviors/configure.zcml:46
 msgid "Table of contents"
-msgstr ""
+msgstr "Sumário"
 
 #: CMFPlone/interfaces/controlpanel.py:498
 msgid "Table styles"
@@ -6580,7 +6580,7 @@ msgstr "Sindicalização permite que você divulgue essa pasta de forma que ela 
 #. Default: "e.g.: www.plone.de"
 #: CMFPlone/interfaces/controlpanel.py:283
 msgid "description_top_level_domain"
-msgstr ""
+msgstr "exemplo: www.plone.org"
 
 #. Default: "Workflow, visibility and versioning settings for your content types."
 #: CMFPlone/controlpanel/browser/types.pt:16
@@ -7463,7 +7463,7 @@ msgstr "Caso selecionado, somente o 'Número de Itens' indicados abaixo serão e
 #: plone.app.users/plone/app/users/profiles/default/userschema.xml
 #: plone.app.users/plone/app/users/upgrades.py:59
 msgid "help_location"
-msgstr "Sua localização, como cidade e país, ou no caso de uma empresa, onde o seu escritório está localizado."
+msgstr "Sua localização, como cidade e país, ou no caso de uma empresa, o local em que seu escritório está localizado."
 
 #. Default: "The geographical location associated with the item, if applicable."
 #: Archetypes/ExtensibleMetadata.py:105
@@ -10298,7 +10298,7 @@ msgstr ""
 "Este link foi enviado para você a partir de\n"
 "${portal_url}\n"
 "\n"
-"Você está recebendo essa mensagem porque alguém leu uma página\n"
+"Você está recebendo essa mensagem porquê alguém leu uma página\n"
 "em ${portal_title}\n"
 "e pensou que isso poderia interessá-lo. Isto está sendo enviado\n"
 "por ${from_address} com o seguinte comentário:\n"
@@ -10338,7 +10338,7 @@ msgstr "Acesse o ${site_map}"
 #. Default: "You are receiving this mail because ${fullname} ${from_address} is sending feedback about the site you administer at ${url}."
 #: CMFPlone/browser/templates/contact-info-email.pt:19
 msgid "site_feedback_mailtemplate_body"
-msgstr "Você está recebendo este e-mail porque ${fullname} ${from_address} entrou em contato por meio do site ${url}.\""
+msgstr "Você está recebendo este e-mail porquê ${fullname} ${from_address} entrou em contato por meio do site ${url}.\""
 
 #. Default: "Sort by"
 #: CMFPlone/browser/templates/search.pt:200
@@ -10353,7 +10353,7 @@ msgstr "Falha na criação da sua conta: não foi possível enviar instruções 
 #. Default: "This account has been created, but we were unable to send instructions for setting a password to this email address: ${address}"
 #: plone.app.users/plone/app/users/browser/register.py:509
 msgid "status_nonfatal_password_mail"
-msgstr "Sua conta conta foi criada, mas não foi possível enviar a sua senha para o seu endereço de E-Mail: ${address}"
+msgstr "Sua conta foi criada, mas não foi possível enviar a sua senha para o seu endereço de E-Mail: ${address}"
 
 #. Default: "Structured Text"
 #: Archetypes/skins/archetypes/wysiwyg_support.pt:31
@@ -10539,7 +10539,7 @@ msgstr "Você não configurou o fuso horário do portal. As Datas e horas podem 
 #. Default: "Date and Time Settings control panel"
 #: CMFPlone/controlpanel/browser/overview.pt:73
 msgid "text_no_timezone_configured_control_panel_link"
-msgstr "COnfigurações de Data e Hora no painel de controle"
+msgstr "Configurações de Data e Hora no painel de controle"
 
 #. Default: "No user by that name."
 #: CMFPlone/browser/templates/author.pt:39
@@ -10554,7 +10554,7 @@ msgstr "Insira o nome do usuário a ser procurado"
 #. Default: "Enter a username to search for, or click 'Show All'"
 #: CMFPlone/controlpanel/browser/usergroups_usersoverview.pt:186
 msgid "text_no_user_searchstring_largesite"
-msgstr "Insira o nome de usuário a ser procurado ou clique 'Mostrar Todos'"
+msgstr "Insira o nome de usuário a ser procurado ou clique em 'Mostrar Todos'"
 
 #. Default: "No matches"
 #: CMFPlone/controlpanel/browser/usergroups_groupmembership.pt:263
@@ -10567,7 +10567,7 @@ msgstr "Nenhum resultado encontrado."
 #: CMFPlone/controlpanel/browser/maintenance.pt:160
 #: CMFPlone/controlpanel/browser/maintenance.py:38
 msgid "text_not_allowed_manage_server"
-msgstr "Você não tem permissão de gerenciar o servidor Zope."
+msgstr "Você não tem permissão para gerenciar o servidor Zope."
 
 #. Default: "Search Site"
 #: plone.app.layout/plone/app/layout/viewlets/searchbox.pt:13
@@ -10737,7 +10737,7 @@ msgstr "Cancelar o checkout de ${object_title}."
 #: plone.app.content/plone/app/content/browser/templates/select_default_view.pt:61
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:332
 msgid "title_change_default_view_item"
-msgstr "Altera o item usando como visualização padrão desta pasta"
+msgstr "Altera o item usado como visualização padrão desta pasta"
 
 #. Default: "Change the portlets of this item"
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:832
@@ -10966,7 +10966,7 @@ msgstr "Diretrizes de Acessibilidade para Conteúdo Web"
 #. Default: "Click to view a live preview. Forms will be disabled in the preview."
 #: plone/app/theming/browser/controlpanel.pt:142
 msgid "tooltip_theme_preview"
-msgstr "Clique para visualizar o tema aplicado. Formulários serão desabilitados nesta visualização."
+msgstr "Clique para visualizar o tema aplicado. Os formulários serão desabilitados neste modo de visualização."
 
 #. Default: "Globally addable"
 #: CMFPlone/controlpanel/browser/types.pt:70
