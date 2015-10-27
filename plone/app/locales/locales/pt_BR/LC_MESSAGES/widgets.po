@@ -95,19 +95,19 @@ msgstr "Aplicar"
 
 #: ./patterns/resourceregistry/js/registry.js
 msgid "Are you sure you want to cancel? You will lose all changes."
-msgstr "Tem certeza de que deseja cancelar? Você perderá todas as mudanças."
+msgstr "Tem certeza que deseja cancelar? Você perderá todas as mudanças."
 
 #: ./patterns/resourceregistry/js/registry.js
 msgid "Are you sure you want to delete the ${name} bundle?"
-msgstr "Tem certeza de que deseja excluir o pacote {$name}?"
+msgstr "Tem certeza que deseja excluir o pacote {$name}?"
 
 #: ./patterns/resourceregistry/js/registry.js
 msgid "Are you sure you want to delete the ${name} resource?"
-msgstr "Tem certeza de que deseja excluir o recurso {$name}?"
+msgstr "Tem certeza que deseja excluir o recurso {$name}?"
 
 #: ./patterns/filemanager/js/delete.js
 msgid "Are you sure you want to delete this resource?"
-msgstr "Tem certeza de que deseja excluir este recurso?"
+msgstr "Tem certeza que deseja excluir este recurso?"
 
 #: ./patterns/resourceregistry/js/registry.js
 msgid "Automatically generated path to the compiled CSS."
@@ -271,7 +271,7 @@ msgstr "Editar"
 
 #: ./patterns/tinymce/pattern.js
 msgid "Email"
-msgstr "Email"
+msgstr "E-mail"
 
 #: ./patterns/resourceregistry/js/registry.js
 msgid "Enabled"
@@ -599,7 +599,7 @@ msgstr "Salvar"
 
 #: ./patterns/resourceregistry/js/builder.js
 msgid "Saved javascript bundle, Build results"
-msgstr "Pacote JavaScript foi salvo, agoraompile os resultados"
+msgstr "O pacote JavaScript foi salvo, agora compile os resultados"
 
 #: ./patterns/filemanager/js/customize.js
 msgid "Search"
@@ -619,7 +619,7 @@ msgstr "Selecionar todos os itens contidos"
 
 #: ./patterns/structure/js/views/columns.js
 msgid "Select columns to show, drag and drop to reorder"
-msgstr "Selecione colunas para exibição, arrasta para reordenar"
+msgstr "Selecione as colunas para exibição, arraste para reordenar"
 
 #: ./patterns/querystring/pattern.js
 msgid "Select criteria"
@@ -635,7 +635,7 @@ msgstr "Selecionado"
 
 #: ./patterns/structure/templates/actionmenu.xml
 msgid "Set as default page"
-msgstr "Definir página padrão"
+msgstr "Definir como página padrão"
 
 #: ./patterns/thememapper/pattern.js
 msgid "Show help"
@@ -783,7 +783,7 @@ msgstr "Encontrado"
 
 #: ./patterns/relateditems/pattern.js
 msgid "home"
-msgstr "Home"
+msgstr "Início"
 
 #: ./patterns/resourceregistry/js/builder.js
 msgid "less compilation error on file "
@@ -847,5 +847,5 @@ msgstr "seu-nome-de-arquivo.js"
 
 #: ./patterns/upload/templates/upload.xml
 msgid "Drag and drop files from your computer onto the area below or click the \"Browse\" button"
-msgstr "Arrastar e solte arquivos de seu computador para a área abaixo ou clique no botão \"Browse\""
+msgstr "Arraste e solte arquivos de seu computador para a área abaixo ou clique no botão \"Browse\""
 
